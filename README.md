@@ -38,7 +38,7 @@
 > How to download?
 
 ```
-$ git clone git@github.com:alexnzarov/pm2-web-ui.git
+$ git clone https://github.com/alexnzarov/pm2-web-ui.git
 $ cd pm2-web-ui
 $ npm i
 ```
